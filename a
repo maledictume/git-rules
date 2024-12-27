@@ -1,0 +1,38 @@
+[33m2abd626[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mrebase-feature[m[33m)[m HEAD@{0}: checkout: moving from master to master
+[33m2abd626[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mrebase-feature[m[33m)[m HEAD@{1}: checkout: moving from rebase-feature to master
+[33m2abd626[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mrebase-feature[m[33m)[m HEAD@{2}: rebase (finish): returning to refs/heads/rebase-feature
+[33m2abd626[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mrebase-feature[m[33m)[m HEAD@{3}: rebase (start): checkout master
+[33m7085670[m[33m ([m[1;32mmerge-feature[m[33m)[m HEAD@{4}: checkout: moving from master to rebase-feature
+[33m2abd626[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mrebase-feature[m[33m)[m HEAD@{5}: commit: Add reflog stub to branch.md
+[33m04bdf8d[m HEAD@{6}: checkout: moving from master to master
+[33m04bdf8d[m HEAD@{7}: commit: Change branch.md
+[33mb5f8401[m HEAD@{8}: commit: Add rebase.md
+[33m7085670[m[33m ([m[1;32mmerge-feature[m[33m)[m HEAD@{9}: merge merge-feature: Fast-forward
+[33m9ca48ed[m HEAD@{10}: checkout: moving from merge-feature to master
+[33m7085670[m[33m ([m[1;32mmerge-feature[m[33m)[m HEAD@{11}: commit: Add merge.md
+[33m9ca48ed[m HEAD@{12}: checkout: moving from master to merge-feature
+[33m9ca48ed[m HEAD@{13}: checkout: moving from 9ca48ed1e3b71c566ea2c010c8cb49033b8d8c0f to master
+[33m9ca48ed[m HEAD@{14}: checkout: moving from master to 9ca48ed1e3b71c566ea2c010c8cb49033b8d8c0f
+[33m9ca48ed[m HEAD@{15}: checkout: moving from master to master
+[33m9ca48ed[m HEAD@{16}: merge bullet-feature: Merge made by the 'ort' strategy.
+[33mdee0364[m HEAD@{17}: checkout: moving from a66e6b04422c33c0752c91ac4113736dffe7eebf to master
+[33ma66e6b0[m HEAD@{18}: reset: moving to a66e6b04422c33c0752c91ac4113736dffe7eebf
+[33mdee0364[m HEAD@{19}: checkout: moving from a66e6b04422c33c0752c91ac4113736dffe7eebf to dee0364e4b218c4ca30b5cda7bb2b4850765c706
+[33ma66e6b0[m HEAD@{20}: commit (merge): Merge branch 'bullet-feature' into HEAD
+[33mdee0364[m HEAD@{21}: checkout: moving from a7df8f4499f2d5b324f82dc081ca71133bd5dae9 to dee0364e4b218c4ca30b5cda7bb2b4850765c706
+[33ma7df8f4[m[33m ([m[1;32mbranch-feature[m[33m)[m HEAD@{22}: checkout: moving from master to a7df8f4499f2d5b324f82dc081ca71133bd5dae9
+[33mdee0364[m HEAD@{23}: commit: New commands for commit.md
+[33ma749fd1[m[33m ([m[1;33mtag: [m[1;33mv0.1[m[33m)[m HEAD@{24}: checkout: moving from bullet-feature to master
+[33m0337f89[m[33m ([m[1;32mbullet-feature[m[33m)[m HEAD@{25}: commit: Replace with bullets
+[33ma749fd1[m[33m ([m[1;33mtag: [m[1;33mv0.1[m[33m)[m HEAD@{26}: checkout: moving from master to bullet-feature
+[33ma749fd1[m[33m ([m[1;33mtag: [m[1;33mv0.1[m[33m)[m HEAD@{27}: reset: moving to HEAD~1
+[33ma7df8f4[m[33m ([m[1;32mbranch-feature[m[33m)[m HEAD@{28}: checkout: moving from a7df8f4499f2d5b324f82dc081ca71133bd5dae9 to master
+[33ma7df8f4[m[33m ([m[1;32mbranch-feature[m[33m)[m HEAD@{29}: checkout: moving from f763f5fba354e6bae62f9456a3d8585adea51f15 to v0.1
+[33mf763f5f[m HEAD@{30}: checkout: moving from master to f763f5fba354e6bae62f9456a3d8585adea51f15
+[33ma7df8f4[m[33m ([m[1;32mbranch-feature[m[33m)[m HEAD@{31}: checkout: moving from a7df8f4499f2d5b324f82dc081ca71133bd5dae9 to master
+[33ma7df8f4[m[33m ([m[1;32mbranch-feature[m[33m)[m HEAD@{32}: checkout: moving from f763f5fba354e6bae62f9456a3d8585adea51f15 to v0.1
+[33mf763f5f[m HEAD@{33}: checkout: moving from master to f763f5fba354e6bae62f9456a3d8585adea51f15
+[33ma7df8f4[m[33m ([m[1;32mbranch-feature[m[33m)[m HEAD@{34}: commit: Add commit.md header
+[33ma749fd1[m[33m ([m[1;33mtag: [m[1;33mv0.1[m[33m)[m HEAD@{35}: commit: Add commit.md header
+[33m325a091[m HEAD@{36}: commit: Add init.md
+[33m24be26a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{37}: clone: from https://github.com/maledictume/git-rules.git
